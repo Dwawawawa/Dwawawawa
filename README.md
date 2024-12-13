@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here's a little about me:
 - 🌱 I’m currently learning **TypeScript**, **MongoDB**, and **Spring Boot**.
 - 👯 I’m looking to collaborate on open-source projects and creative ideas.
 - 💬 Ask me about **frontend development** and **problem-solving**.
-- 📫 How to reach me: gywpjang@gmail.com
+- 📫 How to reach me: gywpjang@naver.com
 - ⚡ Fun fact: I aspire to become an indie game developer someday!
 
 ---
